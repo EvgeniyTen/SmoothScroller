@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "smoothscroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EvgeniyTen/SmoothScroller",
+      "state" : {
+        "branch" : "master",
+        "revision" : "098508f6d1ff977d0d404f5f9535ca37bce80634"
+      }
+    }
+  ],
+  "version" : 2
+}
